@@ -1,6 +1,5 @@
 # Weather list 
 ```
-using - 
 
 redux
 react
